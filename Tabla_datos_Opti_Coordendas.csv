@@ -1,0 +1,106 @@
+Nodo;Latitud;Longitud;Direccion
+0;25.3828094;-100.118517;San Pedro, 67328 Santiago, N.L., Mexico
+1;25.6024165;-100.2551054;Pedregal La Silla, 64898 Monterrey, N.L., Mexico
+2;25.6180657;-100.2723015;C. Puerto Castilla 4672, Brisas La Punta, 64780 Monterrey, N.L., Mexico
+3;25.632609;-100.3003853;Av. Alfonso Reyes 3640, Sin Nombre de Col 39, 64760 Monterrey, N.L., Mexico
+4;25.6346604;-100.2957722;Burócratas Municipales, 64769 Monterrey, N.L., Mexico
+5;25.63705;-100.2875537;Pino Silvestre 2923, Villa Los Pinos, 64770 Monterrey, N.L., Mexico
+6;25.6407116;-100.292967;Alta Vista Sur, Monterrey, N.L., Mexico
+7;25.6409233;-100.3043308;C. Pípila 110, Altamira, 64750 Monterrey, N.L., Mexico
+8;25.6434389;-100.2957722;Alta Vista Sur, 64740 Monterrey, N.L., Mexico
+9;25.6445611;-100.2931991;Río Pánuco 960, Alta Vista, 64750 Monterrey, N.L., Mexico
+10;25.6471489;-100.285672;Marsella 303, Nueva España, 64840 Monterrey, N.L., Mexico
+11;25.6491716;-100.3020942;Juana de Arco, 64700 Monterrey, N.L., Mexico
+12;25.6515649;-100.28954;Av. Eugenio Garza Sada 2501 Sur, Tecnológico, 64849 Monterrey, N.L., Mexico
+13;25.652031;-100.2793587;C. Playas las Hadas 3005, La Primavera, 67855 Monterrey, N.L., Mexico
+14;25.6559645;-100.302489;Chiapas 1209, Nuevo Repueblo, 64700 Monterrey, N.L., Mexico
+15;25.6575787;-100.3278389;Nueva Independencia 980, Independencia, 64720 Monterrey, N.L., Mexico
+16;25.6583244;-100.3233309;Tepeyac 708, Independencia, 64720 Monterrey, N.L., Mexico
+17;25.6587204;-100.3175155;Independencia, 64720 Monterrey, N.L., Mexico
+18;25.6595251;-100.300138;Iguala 1602, Nuevo Repueblo, 64700 Monterrey, N.L., Mexico
+19;25.6625497;-100.3201286;Tlaxcala 340, Independencia, 64720 Monterrey, N.L., Mexico
+20;25.6653841;-100.2957722;Caracol, Monterrey, N.L., Mexico
+21;25.6683026;-100.3010322;Condominios Constitución, 64019 Monterrey, N.L., Mexico
+22;25.6731946;-100.3761083;Santa María, 64650 Monterrey, N.L., Mexico
+23;25.6774027;-100.3001884;Manuel María del Llano 1527, Centro, 64000 Monterrey, N.L., Mexico
+24;25.6779072;-100.3485246;Vicente Ferrara 308, Jardines del Cerro, 64050 Monterrey, N.L., Mexico
+25;25.6864244;-100.2740849;Jesús M. Garza 4026, Madero, 64590 Monterrey, N.L., Mexico
+26;25.6883188;-100.3038678;Vía a Tampico 1619, Treviño, 64580 Monterrey, N.L., Mexico
+27;25.6893725;-100.2978762;64580 Monterrey, Nuevo Leon, Mexico
+28;25.6902045;-100.3785651;San Jerónimo 4o. Sector, 64634 Monterrey, N.L., Mexico
+29;25.6903645;-100.3452944;C. Salamanca 1320, Mitras Centro, 64460 Monterrey, N.L., Mexico
+30;25.6913329;-100.2908632;Tampico, 64550 Monterrey, N.L., Mexico
+31;25.6920133;-100.3017825;3a Vidriera 1116, Primero de Mayo, 64550 Monterrey, N.L., Mexico
+32;25.6928723;-100.3052404;Asarco, Monterrey, N.L., Mexico
+33;25.6942764;-100.3041258;Mina Sta. Eulalia 2015, Asarco, 64550 Monterrey, N.L., Mexico
+34;25.6998648;-100.3504112;Popocatépetl 208, Cumbres 6o. Sector Secc a, 64430 Monterrey, N.L., Mexico
+35;25.7009736;-100.2983364;Calle Nardo 948, Cementos, 64520 Monterrey, N.L., Mexico
+36;25.7016205;-100.3438493;C. Cuatro Ciénegas 2002, Mitras Centro, 64460 Monterrey, N.L., Mexico
+37;25.7018232;-100.318217;Bella Vista, 64410 Monterrey, N.L., Mexico
+38;25.702387;-100.3308447;Garza Nieto, Monterrey, N.L., Mexico
+39;25.7061207;-100.3473544;Laredo 126, Mitras Nte., 64320 Monterrey, N.L., Mexico
+40;25.7105703;-100.2558176;Av. Oscar Arizpe, Industrias del Vidrio 3er Sector, 66490 San Nicolás de los Garza, N.L., Mexico
+41;25.712972;-100.3430654;C. Río Lerma 117, Central, 64190 Monterrey, N.L., Mexico
+42;25.714061;-100.3443288;Río Nilo 155, Mitras Nte., 64320 Monterrey, N.L., Mexico
+43;25.7150206;-100.2971749;Garza Cantú, San Nicolás de los Garza, N.L., Mexico
+44;25.7167656;-100.3646796;Gregorio Morales 5105, Valle Verde 4, 64339 Monterrey, N.L., Mexico
+45;25.7177452;-100.3727522;Los Pinos 4218, Los Cedros, 64370 Monterrey, N.L., Mexico
+46;25.7177654;-100.34593;Nueva Morelos, Monterrey, N.L., Mexico
+47;25.7219211;-100.3645271;San Jorge, 64330 Monterrey, N.L., Mexico
+48;25.7225104;-100.3600483;Av Abraham Lincoln 2501, San Jorge, 64178 Monterrey, N.L., Mexico
+49;25.7242617;-100.3614591;Carmen Flores 4855, Graciano Bortoni, 64178 Monterrey, N.L., Mexico
+50;25.7251932;-100.3414934;Miguel Ciudadano Abasta 2444, Ferrocarrilera, 64250 Monterrey, N.L., Mexico
+51;25.7254204;-100.3592085;Everest 4837, Villa Mitras, 64170 Monterrey, N.L., Mexico
+52;25.7276045;-100.3532609;Fray Angélico 5925, Mitra Dorada, 64170 Monterrey, N.L., Mexico
+53;25.7301705;-100.382075;Valle de Infonavit, 64350 Monterrey, N.L., Mexico
+54;25.7317991;-100.3490877;Jardín Modelo, 64160 Monterrey, N.L., Mexico
+55;25.7335685;-100.3385135;Zócalo 6141, Loma Bonita, 64250 Monterrey, N.L., Mexico
+56;25.7350297;-100.3345939;Priv. Apodaca 2132, Topo Chico, 64260 Monterrey, N.L., Mexico
+57;25.7357201;-100.3546823;C. Zempoala 211, Unidad Modelo, 64140 Monterrey, N.L., Mexico
+58;25.736394;-100.284552;Riberas de las Puentes, 66465 San Nicolás de los Garza, N.L., Mexico
+59;25.736507;-100.3343527;Topo Chico, 64260 Monterrey, N.L., Mexico
+60;25.7375309;-100.4065928;Cumbres del Sur 3-CA 310, Cumbres Elite 7o. Sector, 64349 Monterrey, N.L., Mexico
+61;25.73755;-100.4065797;Cumbres del Sur 4, Cumbres Elite 4to. Sector, 64610 Monterrey, N.L., Mexico
+62;25.7376796;-100.4067002;Cumbres del Sur 106, Cumbres Elite 7o. Sector, 64349 Monterrey, N.L., Mexico
+63;25.7379523;-100.4070178;Cumbres del Sur, Cumbres 4º. Sector Secc C, 64619 Monterrey, N.L., Mexico
+64;25.7384795;-100.4078266;Cumbres del Sur, Cumbres Elite 7o. Sector, 64349 Monterrey, N.L., Mexico
+65;25.7422608;-100.411384;Paseo de Cumbres 1202, Cumbres Madeira, 64349 N.L., Mexico
+66;25.7425107;-100.3241652;6a. Av. 1204, Lázaro Cárdenas, 64269 Monterrey, N.L., Mexico
+67;25.7432824;-100.3418496;Av. San Martin 3209, Fomerrey Sector Poniente, 64237 Monterrey, N.L., Mexico
+68;25.7434324;-100.3546469;Lic. Pedro Zorrilla 404, Valle de Santa Lucía, 64140 Monterrey, N.L., Mexico
+69;25.7436778;-100.3568071;Lomas Modelo, 64140 Monterrey, N.L., Mexico
+70;25.7438226;-100.38032;Fidel Velázquez, 64119 Monterrey, N.L., Mexico
+71;25.7445026;-100.3875338;Magdalena García 6445, Portal de Cumbres 1o. Sector, 64348 Monterrey, N.L., Mexico
+72;25.7454015;-100.3480352;Fray Servando Teresa de Mier (Fomerrey 6), 64233 Monterrey, N.L., Mexico
+73;25.7457023;-100.3438249;Tierra y Libertad Sector Heroico, 64236 Monterrey, N.L., Mexico
+74;25.74686;-100.3715926;Av. Villa Alegre 8616, Villa Alegre, 64130 Monterrey, N.L., Mexico
+75;25.7509045;-100.3489967;1o. de Mayo, Lomas de San Martin, 64220 Monterrey, N.L., Mexico
+76;25.7528862;-100.381373;Colinas de San Bernabé (Fomerrey 25), 64107 Monterrey, N.L., Mexico
+77;25.7547922;-100.4059649;Río Eufrates 310, Paseo de Cumbres 2o Sector, 64346 Monterrey, N.L., Mexico
+78;25.7551756;-100.3596143;Artículo 27 (Fomerrey 96), 64210 Monterrey, N.L., Mexico
+79;25.7560886;-100.387691;San Bernabé (Fomerrey 105), 64109 Monterrey, N.L., Mexico
+80;25.7561932;-100.4074374;Río Amazonas 105, Paseo de Cumbres 1er Sector, 64346 Monterrey, N.L., Mexico
+81;25.7566867;-100.4273566;Cda. Cumbre Mallorca, Cumbres del Sol, 64349 N.L., Mexico
+82;25.7586933;-100.3538331;Av. la Esperanza 6600, 23 de Marzo, 64215 Monterrey, N.L., Mexico
+83;25.7594227;-100.2956389;Estación Santiago Tapia, Santiago Tapia 800, Centro, 66400 San Nicolás de los Garza, Nuevo León, Mexico
+84;25.7621387;-100.384883;San Bernabé XIII Sector, 64106 Monterrey, N.L., Mexico
+85;25.7634228;-100.4178833;Cumbres San Agustín, Monterrey, N.L., Mexico
+86;25.7697048;-100.4048526;Mercurio 120, Barrio Estrella, 64102 Monterrey, N.L., Mexico
+87;25.7710228;-100.401606;Urbi Villa del Rey, Barrio San Pedro, 64102 Monterrey, N.L., Mexico
+88;25.7765069;-100.4087543;64103 Monterrey, Nuevo Leon, Mexico
+89;25.7773777;-100.3915523;Arcos del Sol, 64102 Monterrey, N.L., Mexico
+90;25.7777668;-100.3708439;Croc, 64200 Monterrey, N.L., Mexico
+91;25.7792553;-100.4010306;Barrio Alameda, Monterrey, N.L., Mexico
+92;25.7794064;-100.3785651;Urbivilla Bonita, 64102 Monterrey, N.L., Mexico
+93;25.7807716;-100.4092545;Alianza, 64103 Monterrey, N.L., Mexico
+94;25.7821463;-100.3937076;Llanura Blanca 300, Barrio del Prado, 64102 Monterrey, N.L., Mexico
+95;25.78331;-100.3905143;Berkelio 475, Barrio Acero, 64102 Monterrey, N.L., Mexico
+96;25.7892666;-100.4712805;66023 Los Parques, N.L., Mexico
+97;25.7929192;-100.5205463;Villa de Ábrego 233, Altavilla, 66014 N.L., Mexico
+98;25.7939262;-100.3799691;Fomerrey 35, 64209 Monterrey, N.L., Mexico
+99;25.796977;-100.411866;Fray Bernardo 623, Portal del Fraile, 66064 Cd Gral Escobedo, N.L., Mexico
+100;25.7996433;-100.4124519;C. Fray José 638, Sin Nombre de Col 4, 66064 Cd Gral Escobedo, N.L., Mexico
+101;25.8002233;-100.3122083;General Escobedo, Nuevo Leon, Mexico
+102;25.8003989;-100.4111572;C. Fray José 729, Sin Nombre de Col 4, 66064 Cd Gral Escobedo, N.L., Mexico
+103;25.8181195;-100.5373732;Vista Turquesa 430, 66013 N.L., Mexico
+104;25.8279506;-100.2100082;P.º Nisperos 240, 66607 N.L., Mexico

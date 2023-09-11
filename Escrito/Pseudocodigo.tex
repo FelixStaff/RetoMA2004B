@@ -1,0 +1,46 @@
+\documentclass[12pt]{article}
+
+\usepackage{graphicx}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+
+\begin{document}
+\begin{algorithm}
+\caption{Algoritmo Metahurístico}
+% Es un algoritmo de VRP
+\begin{algorithmic}[1]
+\STATE $V$ /* Conjunto de nodos optimizados*/
+\STATE $S \leftarrow \emptyset$ /* Conjunto de soluciones para cada carro*/
+\STATE $P$ /* Conjunto de pedidos con sus direcciones*/
+/* Se ordenan los pedidos por distancia*/
+\STATE $CM$ /* capacidad máxima de cada carro*/
+\STATE $M$ /* Matriz de tiempos*/
+\STATE $Vol$ /* Matriz de volúmenes*/
+\STATE $T_{max}$ /* Tiempo máximo de cada carro*/
+\STATE $P \leftarrow ordenar(P)$
+\STATE $i \leftarrow 0$
+\WHILE{$P \neq \emptyset$}
+\STATE $S[i] \leftarrow \emptyset$
+\STATE $S[i] \leftarrow S[i] \cup P[0]$
+\STATE $P \leftarrow P - P[0]$
+\STATE $j \leftarrow 0$
+% Que no supere la capacidad máxima y el tiempo máximo
+\STATE /*Se agregan los nodos que no superen la capacidad máxima y el tiempo máximo*/
+\WHILE{$j < |P|$ \AND $\sum_{k \in S[i]} Vol[k] + Vol[P[j]] \leq CM$ \AND $\sum_{k \in S[i]} M[k][P[j]] + M[P[j]][S[i][0]] \leq T_{max}$}
+% Ver si hay un nodo entre el nodo actual y el nodo siguiente para pasar por ahí
+\STATE /*Se busca un nodo entre el nodo actual y el nodo siguiente para pasar por ahí*/
+\IF{$\exists k \in S[i] \mid M[k][P[j]] + M[P[j]][S[i][0]] \leq M[k][S[i][0]]$}
+% Si existe, entonces lo agrego verificando que no supere la capacidad máxima y el tiempo máximo
+\STATE $S[i] \leftarrow S[i] \cup k$
+\STATE $P \leftarrow P - k$
+\ENDIF
+\STATE /*Se agrega el nodo actual*/
+\STATE $S[i] \leftarrow S[i] \cup P[j]$
+\STATE $P \leftarrow P - P[j]$
+\STATE $j \leftarrow j + 1$
+\ENDWHILE
+\STATE $i \leftarrow i + 1$
+\ENDWHILE
+\end{algorithmic}
+\end{algorithm}
+\end{document}
